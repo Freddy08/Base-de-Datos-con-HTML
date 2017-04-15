@@ -1,0 +1,35 @@
+#encabezado{
+    height: 220px;
+    text-align: center;
+    background-image: url("../images/cabecera.png");
+    background-repeat:round;
+    width: 1340px; 
+}
+
+
+.letras{
+    background-color: #02223a;
+    bottom: 0;
+    color: rgba(255,255,255,0.9);
+    display: block;
+    font-weight: bold;
+    opacity: 0.76;
+    text-align: center;
+    text-shadow: 1px 1px 1px #666;
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 70px;
+    padding: 3px;
+    margin: 1px;
+}
+
+/*diseño tabla*/
+table{
+	border: 2px solid black;
+}
+
+table, td, th {
+    background-color: #70b8ff;
+    margin: 7px;
+    padding: 2px;
+}
